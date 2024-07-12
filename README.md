@@ -7,7 +7,7 @@ React, React Native, nextjs and Nestjs full stack developer
 Lifelong learner on a mission to constantly evolve and adapt in the ever-changing landscape of software engineering.I am a lifelong learner who is determined to constantly evolve and stay ahead of the game in the rapidly changing field of software engineering.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [muthuri\_dev](http://yourhub.tech/)
+* 🖥️  See my portfolio at [muthuri](https://muthuri.vercel.app/)
 * ✉️  You can contact me at [muthurikennedy082@gmail.com](mailto:muthurikennedy082@gmail.com)
 * 🚀  I'm currently working on [yourHub](http://yourhub.tech/)
 

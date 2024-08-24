@@ -8,7 +8,7 @@ Lifelong learner on a mission to constantly evolve and adapt in the ever-changin
 
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [muthuri](https://muthuri.vercel.app/)
-* ✉️  You can contact me at [muthurikennedy082@gmail.com](mailto:muthurikennedy082@gmail.com)
+* ✉️  You can contact me at [muthuri](mailto:muthurik@graphit.software)
 * 🚀  I'm currently working on [yourHub](http://yourhub.tech/)
 
 <a href="https://www.github.com/muthuri-dev" target="_blank" rel="noreferrer"><img

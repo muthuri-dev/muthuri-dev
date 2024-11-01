@@ -9,7 +9,7 @@ Lifelong learner on a mission to constantly evolve and adapt in the ever-changin
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [muthuri](https://muthuri.vercel.app/)
 * ✉️  You can contact me at [muthuri](mailto:muthurik@graphit.software)
-* 🚀  I'm currently working on [yourHub](http://yourhub.tech/)
+* 🚀  I'm currently working on [GraphIt](http://graphit.software/)
 
 <a href="https://www.github.com/muthuri-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/muthuri-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/muthuri_dev" target="_blank" rel="noreferrer"><img

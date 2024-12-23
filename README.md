@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kennedy muthuri
 =======================================================================================================================================
 
-Backend and Developer Operations Engineer
+Backend and Development Operations Engineer
 -------------------------------------
 
 Lifelong learner on a mission to constantly evolve and adapt in the ever-changing landscape of software engineering.I am a lifelong learner who is determined to constantly evolve and stay ahead of the game in the rapidly changing field of software engineering.

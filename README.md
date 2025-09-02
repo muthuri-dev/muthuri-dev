@@ -7,9 +7,9 @@ Backend and Development Operations Engineer
 Lifelong learner on a mission to constantly evolve and adapt in the ever-changing landscape of software engineering.I am a lifelong learner who is determined to constantly evolve and stay ahead of the game in the rapidly changing field of software engineering.
 
 * 🌍  I'm based in Kenya
-* 🖥️  See my portfolio at [muthuri](https://muthuri.vercel.app/)
-* ✉️  You can contact me at [muthuri](mailto:muthurik@graphit.software)
-* 🚀  I'm currently working on [GraphIt](http://www.graphit.software/)
+* 🖥️  See my portfolio at [muthuri](https://muthuri.shipcodes.me/)
+* ✉️  You can contact me at [muthuri](mailto:kennedy_muthuri@shipcodes.dev)
+* 🚀  I'm currently working on [Ship Codes](http://shipcodes.dev/)
 
 <a href="https://www.github.com/muthuri-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/muthuri-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/muthuri_dev" target="_blank" rel="noreferrer"><img

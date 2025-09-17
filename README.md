@@ -9,7 +9,7 @@ Lifelong learner on a mission to constantly evolve and adapt in the ever-changin
 * 🌍  I'm based in Kenya
 * 🖥️  See my portfolio at [muthuri](https://muthuri.shipcodes.me/)
 * ✉️  You can contact me at [muthuri](mailto:kennedy_muthuri@shipcodes.dev)
-* 🚀  I'm currently working on [Ship Codes](http://shipcodes.dev/)
+* 🚀  I'm currently working on [Ship Codes](https://shipcodes.dev/)
 
 <a href="https://www.github.com/muthuri-dev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/muthuri-dev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/muthuri_dev" target="_blank" rel="noreferrer"><img

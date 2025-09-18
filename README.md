@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+%26+DevOps+Engineer;Lifelong+Learner;Cloud+Architect;Code+Craftsman)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+%26+DevOps+Engineer)
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logoColor=white)](https://muthuri.shipcodes.me/)
 [![Email](https://img.shields.io/badge/📧_Email-FF6B6B?style=for-the-badge&logoColor=white)](mailto:kennedy_muthuri@shipcodes.dev)
